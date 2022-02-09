@@ -9,7 +9,7 @@ const config = {
   title: 'Zngly',
   tagline: 'Meet Zngly, the no-code media platform for the creation, management and measurement of content marketing and client engagement.',
   url: 'https://www.zngly.com',
-  baseUrl: '/',
+  baseUrl: '/zngly-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/zngly_favicon.png',

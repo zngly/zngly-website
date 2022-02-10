@@ -11,29 +11,30 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
     {
-        title: 'Easy to Use',
+        title: 'Sales',
         description: (
             <>
-                Docusaurus was designed from the ground up to be easily installed and used to get your website up and
-                running quickly.
+                Znglists empower sales with the ability to share carefully curated selections of content both publicly
+                and privately to help shorten the sales cycle and drive campgains forward.
             </>
         ),
     },
     {
-        title: 'Focus on What Matters',
+        title: 'Marketing',
         description: (
             <>
-                Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go ahead and move your docs into
-                the <code>docs</code> directory.
+                Zngly enables you to publish your content to the world in a matter of clicks. Got an ad for an upcoming
+                product featured on your homepage? No problem. Zngly looks to simplify the maintenance of your
+                organisation’s campaigns.
             </>
         ),
     },
     {
-        title: 'Powered by React',
+        title: 'Zngalytics',
         description: (
             <>
-                Extend or customize your website layout by reusing React. Docusaurus can be extended while reusing the
-                same header and footer.
+                Tracks every click, view, page turn and download in real-time, in one place, creating in-depth reports
+                without the need for complex data tools. Know where your audience is coming from. Powerful search tools.
             </>
         ),
     },

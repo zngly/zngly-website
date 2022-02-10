@@ -35,6 +35,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      image: 'img/mega-zngly-briefdown.jpg',
       navbar: {
         title: 'Select Search & Share',
         logo: {
@@ -45,8 +46,8 @@ const config = {
           {
             type: 'doc',
             docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
+            position: 'right',
+            label: 'Docs',
           },
           {
             href: 'https://github.com/zngly/zngly-website',
@@ -62,7 +63,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Docs',
                 to: '/docs/intro',
               },
             ],

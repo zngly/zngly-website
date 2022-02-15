@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Live at https://zngly.github.io/zngly-website/
 
 ### Installation
 

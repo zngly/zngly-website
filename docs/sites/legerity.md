@@ -1,13 +1,23 @@
 ---
 sidebar_position: 1
 title: Legerity
+tags:
+  - Leadfeeder
+  - Salesforce
 ---
 
-# Legerity Resource Centre
+# Legerity
+---
 
--   Legerity uses zngly to promote their resource cntre which is marketed as their resource centre
+# Instance Information
 
+Legerity uses their Zngly instance to promote and leverage their catalog of high-quality media.
 
-# CRM Tooling
+<a href="https://resources.legerityfinancials.com/" target="_blank">View This Zngly Instance</a>
+
+---
+
+# Integrated Optional Technologies
 
 - Leadfeeder
+- Salesforce

@@ -1,14 +1,25 @@
 ---
 sidebar_position: 1
 title: Genesis
+tags:
+  - Pardot
+  - Salesforce
+  - Hubspot
 ---
 
-# Genesis TV
+# Genesis
+---
 
--   Genesis uses zngly to promote their resource center which is marketed as Genesis Tv
+# Instance Information
 
+Genesis uses their Zngly instance to promote and leverage their massive catalog of high-quality marketing material.
 
-# CRM Tooling
+<a href="https://tv.genesis.global/" target="_blank">View This Zngly Instance</a>
 
-- SalesForce
+---
+
+# Integrated Optional Technologies
+
+- Pardot
+- Salesforce
 - Hubspot

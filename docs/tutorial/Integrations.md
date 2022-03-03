@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: Tools
+title: Integrations
 ---
 
 # Add more functionality to your Zngly

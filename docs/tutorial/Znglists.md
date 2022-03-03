@@ -21,7 +21,7 @@ Say goodbye to file attachments! Whether it’s a video hosted on Youtube or Vim
 - ‘Continue with recording’, set your  video’s title, description and thumbnail
 - ‘Click To Upload’ when finished
 
-## Go...share your list
+## Go...Share your list
 *Tip: Lists are created in draft, so you will need to change the visibility before sharing.
 - Click ‘View List’ to see your list and ‘Back to Znglist’s to change the visibilitê
 - Click the pencil icon to the right of   your list titlø

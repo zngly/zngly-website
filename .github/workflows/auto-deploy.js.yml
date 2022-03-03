@@ -10,16 +10,13 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
-
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v2
-    - name: Node
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14'
-        cache: 'npm'
-    - run: npm i
-    - run: npm run deploy
+      - uses: actions/checkout@master
+      - uses: redkubes/docusaurus-deploy-action@master
+        with:
+          source-folder: /
+          git-user: ditto-vlad
+          git-password: ${{ secrets.GITHUB_TOKEN }}
+          deployment-branch: gh-pages

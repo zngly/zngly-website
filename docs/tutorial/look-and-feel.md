@@ -18,7 +18,7 @@ Service links is where you will input any integration codes or links. Examples i
 Here you can set the colors for your site's buttons, text and links for your site.
 
 ## Header
-###Header Logo
+### Header Logo
 This image is shown in the header which represents the company logo.
 
 ### Header Text

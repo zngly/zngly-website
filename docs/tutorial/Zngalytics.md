@@ -3,7 +3,7 @@ sidebar_position: 5
 title: Zngalytics
 ---
 
-#Analytics & Reporting
+# Analytics & Reporting
 Zngly’s out of the box analytics tools provides unique insights into your audience, their behavior and interests. Every click, view, and read are tracked for reporting and analysis in the Zngalytics Hub.
 
 No matter the file type, all user engagement data is visible behind a single pane of glass. With adaptive tables, search and filters to drill into your data, and gain meaningful insights to help you win deals.

@@ -12,13 +12,14 @@ Contact our sales team using our https://www.zngly.com website
 ### How to Set Up
 
 - #### Virtual Handshake
+
 To set up Zngly Connect, a virtual handshake is required between the Zngly instance and your domain name. 
 You provide us with the name for your Zngly Connect, and we’ll supply you with the records to edit on your domain provider. 
 It only takes a few moments to get fully integrated!
 
 - #### Admin & User Creation
 
-As a Zngly Connect owner, you will be able to create multiple Zngly Sales Users. These are the users who will “list & link” the content you wish to share with Zngly to others. (is this 4-5 sales users & then 10e per each user after?)
+As a Zngly Connect owner, you will be able to create multiple Zngly Sales Users. These are the users who will “list & link” the content you wish to share with Zngly to others.
 
 To add users, simply navigate to the “add user” option after selecting “profile” from the drop-down menu. 
 
@@ -35,8 +36,8 @@ The options for branding can be found under the “site info” item of the user
 To Set up [Pardot Tracking](https://help.salesforce.com/s/articleView?id=sf.pardot_implement_tracking_code.htm&type=5) head over to site info. Under the service links section. 
 
 - - Check "Enable Pardot Tracking"
-  - Add the piAid (You can find this within the <script> code provided from Pardot's Tracking script. Look for piAid)
-  - Add the piCid (You can find this within the <script> code provided from Pardot's Tracking script. Look for piCid)
+  - Add the piAid (You can find this within the ```<script>``` code provided from Pardot's Tracking script. Look for piAid)
+  - Add the piCid (You can find this within the ```<script>``` code provided from Pardot's Tracking script. Look for piCid)
 
 - #### Google Search Console
 

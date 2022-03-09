@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
-title: Creator
+title: Zngly Creator
 ---
 
-## Zngly Creator
+Zngly Creator is...
 

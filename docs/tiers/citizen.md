@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
-title: Citizen
+title: Zngly Citizen
 ---
 
-## Zngly Citizen
+Zngly Citizen is...
 

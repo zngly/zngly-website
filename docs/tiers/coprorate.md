@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-title: Zngly Connect
+title: Zngly Corporate
 ---
 
-Zngly Connect is...
+Zngly Corporate is...
 
 ### How do I get it
 
@@ -13,13 +13,13 @@ Contact our sales team using our https://www.zngly.com website
 
 - #### Virtual Handshake
 
-To set up Zngly Connect, a virtual handshake is required between the Zngly instance and your domain name. 
-You provide us with the name for your Zngly Connect, and we’ll supply you with the records to edit on your domain provider. 
+To set up Zngly Corporate, a virtual handshake is required between the Zngly instance and your domain name. 
+You provide us with the name for your Zngly Corporate, and we’ll supply you with the records to edit on your domain provider. 
 It only takes a few moments to get fully integrated!
 
 - #### Admin & User Creation
 
-As a Zngly Connect owner, you will be able to create multiple Zngly Sales Users. These are the users who will “list & link” the content you wish to share with Zngly to others.
+As a Zngly Corporate owner, you will be able to create multiple Zngly Sales Users. These are the users who will “list & link” the content you wish to share with Zngly to others.
 
 To add users, simply navigate to the “add user” option after selecting “profile” from the drop-down menu. 
 

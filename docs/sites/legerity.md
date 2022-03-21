@@ -21,3 +21,4 @@ Legerity uses their Zngly instance to promote and leverage their catalog of high
 
 - Leadfeeder
 - Salesforce
+- v3 analytics

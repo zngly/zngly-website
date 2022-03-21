@@ -15,5 +15,5 @@ Finos deploys a Zngly instance as a means of highlighting the many open source p
 ---
 
 # Integrated Optional Technologies
+v3 analytics
 
-- v3 analytics

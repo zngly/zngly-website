@@ -1,6 +1,6 @@
 # Website
 
-Live at https://zngly.github.io/zngly-website/
+Live at http://dev.zngly.com
 
 ### Installation
 

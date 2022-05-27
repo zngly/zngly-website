@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzngly_website=self.webpackChunkzngly_website||[]).push([[239],{3240:function(e){e.exports=JSON.parse('{"name":"Leadfeeder","permalink":"/docs/tags/leadfeeder","docs":[{"id":"sites/legerity","title":"Legerity","description":"---","permalink":"/docs/sites/legerity"}],"allTagsPath":"/docs/tags"}')}}]);

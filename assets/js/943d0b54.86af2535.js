@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzngly_website=self.webpackChunkzngly_website||[]).push([[886],{6448:function(s){s.exports=JSON.parse('{"name":"Hubspot","permalink":"/docs/tags/hubspot","docs":[{"id":"sites/genesis","title":"Genesis","description":"---","permalink":"/docs/sites/genesis"}],"allTagsPath":"/docs/tags"}')}}]);

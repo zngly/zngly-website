@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
         title: 'Sales',
         description: (
             <>
-                Znglist empower sales with the ability to share carefully curated selections of content both publicly
+                Znglists empower sales with the ability to share carefully curated selections of content both publicly
                 and privately to help shorten the sales cycle and drive campgains forward.
             </>
         ),

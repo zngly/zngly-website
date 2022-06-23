@@ -37,34 +37,34 @@ const config = {
     ({
       image: 'img/mega-zngly-briefdown.jpg',
       navbar: {
-        title: 'Select Search & Share',
+        title: 'Help Center',
         logo: {
           alt: 'Zngly Logo',
           src: 'img/zngly_logo.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'right',
-            label: 'Docs',
-          },
-          {
-            href: 'https://github.com/zngly/zngly-website',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'getting-started/set-up',
+          //   position: 'right',
+          //   label: 'Docs',
+          // },
+          // {
+          //   href: 'https://github.com/zngly/zngly-website',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Docs',
             items: [
               {
-                label: 'Docs',
-                to: '/docs/intro',
+                label: 'Getting Started',
+                to: '/docs/getting-started/set-up',
               },
             ],
           },
